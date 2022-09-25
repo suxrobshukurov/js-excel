@@ -1,0 +1,24 @@
+{
+  "name": "excel",
+  "version": "1.0.1",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suxrobshukurov/js-excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Sukhrob Shukurov <suxrob-1996@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suxrobshukurov/js-excel/issues"
+  },
+  "homepage": "https://github.com/suxrobshukurov/js-excel#readme"
+}
